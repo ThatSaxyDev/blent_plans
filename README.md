@@ -44,6 +44,30 @@ This repo includes a custom Agent Skill for generating lesson plans using the `l
 
 To use: Configure the `.ite` folder with your Agent IDE to enable the lesson planner skill.
 
+## Usage
+
+Here's an example prompt to generate lessons:
+
+```
+use the lesson planner skill
+
+Traditional Festivals I
+
+New Yam Festival (Igbo); Durbar Festival (Northern Nigeria); Purpose and significance; How festivals bring people together
+
+Grade 3, History
+
+---
+
+Traditional Festivals II
+
+Argungu Fishing Festival; Osun-Osogbo Festival; Eyo Festival (Lagos); Unity through festivals
+
+Grade 3, History
+```
+
+The lesson planner skill will generate both lesson plans and lesson notes automatically.
+
 ## Contributing
 
 Add new lessons following the naming convention:
