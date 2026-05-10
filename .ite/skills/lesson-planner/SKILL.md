@@ -132,12 +132,16 @@ Keep lesson notes VERY short. One page max:
 
 Save as: `lessons/{Subject}/Grade {X}/{topic_lower}/{grade_lower}-{subject_lower}-{topic_lower}-lesson-notes.md`
 
-The lesson notes must be VERY SHORT:
-- 1-2 sentences for topic intro
-- 2-3 bullet points max (NOT sentences per subtopic)
-- Simple language for primary school children (ages 6-12)
+The lesson notes must be VERY SHORT (one page max). Choose the appropriate format based on the topic:
+
+**Format A - Bullet Points:** Use for topics that are simpler or fit discrete points.
+**Format B - Paragraphs:** Use for topics that need flowing prose to explain concepts properly.
+
+**General rules:**
+- Keep it to one page max
+- Simple language primary school kids understand
 - Nigerian primary school context
-- Total: 8-12 bullet points maximum for the entire lesson
+- One assignment question only
 
 ```markdown
 # Lesson Notes
@@ -149,12 +153,10 @@ The lesson notes must be VERY SHORT:
 **Topic:** {Topic}
 
 ## Lesson Content
-{1-2 sentences max on the topic}
+{Topic introduction - 1-2 sentences}
 
 ## Key Points
-- {Point 1}
-- {Point 2}
-- {Point 3}
+{Format A: Bullet points OR Format B: 1-2 flowing paragraphs}
 
 ## Assignment
 {1 simple question}
@@ -164,8 +166,10 @@ The lesson notes must be VERY SHORT:
 
 ### Writing Lesson Notes
 
-- Use bullet points, NOT paragraphs
-- Keep total bullet points to 8-12 max for the entire lesson
+- Choose the appropriate format based on topic:
+  - **Bullet points:** For simpler topics or when covering discrete facts
+  - **Paragraphs:** For topics needing flowing explanation or narrative
+- Keep it to one page max
 - Simple language primary school kids understand
 - Nigerian context: use local examples
 - One assignment question only
@@ -189,15 +193,6 @@ Each step should:
 ### Evaluation
 
 Usually a simple classwork question that tests understanding of the main concept.
-
-### Lesson Length Guidelines
-
-Lesson notes must be VERY short. Keep it to one page max:
-- 8-12 bullet points total for the lesson
-- 3-4 subtopics max
-- Brief intro (1-2 sentences)
-- 2-3 key points per subtopic
-- One assignment question
 
 ## Example
 
