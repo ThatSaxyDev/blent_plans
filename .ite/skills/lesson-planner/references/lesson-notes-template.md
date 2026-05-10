@@ -7,25 +7,14 @@
 **Topic:** Prevention of Drug Abuse
 
 ## Lesson Content
-Prevention of drug abuse:
-Drugs are substances that we take into our body to feel better or different.
+Drugs are substances we take into our body. Good drugs (medicine) help us when we are sick. Bad drugs are harmful and dangerous.
 
-## Types of Drugs
-1. Good drugs (medicine): given by parents or doctors
-2. Bad drugs: harmful and dangerous
-
-## Who are Peers?
-Peers are people of the same age group.
-
-## Peer Influence
-These are the influences our peers have on us, good or bad.
-Good peers/friends help us do right.
-Bad peers/friends lead us to do wrong.
-
-## Making Good Choices
-1. Think before acting.
-2. Say no to bad things.
-3. Choose good friends.
+## Key Points
+- Good drugs: given by parents or doctors
+- Bad drugs: harmful and dangerous — avoid them
+- Peers: people your age
+- Good peers help you do right; bad peers lead you wrong
+- Always think before you act and say no to bad things
 
 ## Assignment
-Write two examples of good drugs.
+Write one example of a good drug.

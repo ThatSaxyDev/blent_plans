@@ -121,25 +121,23 @@ CLASSWORK: {Classwork question}
 
 ### Lesson Length Guidelines
 
-Keep lesson plans and notes SHORT for all grades (2-5). Primary school students learn best with focused, concise content:
-- 3-4 subtopics max per lesson
-- 3-4 presentation steps only
-- Brief, direct explanations — never lengthy
-- Grade 2-3: Most condensed (use fewer subtopics if needed)
-- Grade 4-5: Slightly more detail, but still brief and direct
-- Total lesson notes should fit on 1-2 pages
+Keep lesson notes VERY short. One page max:
+- 8-12 bullet points total
+- 3-4 subtopics max
+- Brief intro (1-2 sentences)
+- Simple key points
 ```
 
 ### 2. Lesson Notes (Teaching Script)
 
 Save as: `lessons/{Subject}/Grade {X}/{topic_lower}/{grade_lower}-{subject_lower}-{topic_lower}-lesson-notes.md`
 
-The lesson notes must be:
-- Punchy and straight to the point
+The lesson notes must be VERY SHORT:
+- 1-2 sentences for topic intro
+- 2-3 bullet points max (NOT sentences per subtopic)
 - Simple language for primary school children (ages 6-12)
-- In simple sentences a child can understand
-- Suitable for Nigerian primary school context
-- SHORT for ALL grades (2-5): keep it concise — primary school students learn best with focused content
+- Nigerian primary school context
+- Total: 8-12 bullet points maximum for the entire lesson
 
 ```markdown
 # Lesson Notes
@@ -151,16 +149,12 @@ The lesson notes must be:
 **Topic:** {Topic}
 
 ## Lesson Content
-{Topic intro - 1-2 sentences}
+{1-2 sentences max on the topic}
 
-## {Subtopic 1}
-{3-5 sentences max}
-
-## {Subtopic 2}
-{3-5 sentences max}
-
-## {Subtopic 3}
-{3-5 sentences max}
+## Key Points
+- {Point 1}
+- {Point 2}
+- {Point 3}
 
 ## Assignment
 {1 simple question}
@@ -170,16 +164,11 @@ The lesson notes must be:
 
 ### Writing Lesson Notes
 
-- Use simple, short sentences
-- Avoid complex words
-- Use examples children can relate to (family, school, friends)
-- Be punchy - no lengthy explanations
-- Write like you're speaking directly to children
-- Nigerian context: mention local examples where appropriate
-- Keep ALL grades (2-5) short, simple and direct — primary school students need focused, concise content
-- Grade differences should be subtle: slightly more words for Grade 4/5, but never lengthy
-- Aim for 6-10 sentences per subtopic maximum, regardless of grade
-- Lesson notes should fit on 1-2 pages total
+- Use bullet points, NOT paragraphs
+- Keep total bullet points to 8-12 max for the entire lesson
+- Simple language primary school kids understand
+- Nigerian context: use local examples
+- One assignment question only
 
 ### Behavioral Objectives Format
 
@@ -203,13 +192,12 @@ Usually a simple classwork question that tests understanding of the main concept
 
 ### Lesson Length Guidelines
 
-Keep lesson plans and notes SHORT for all grades (2-5). Primary school students need focused, concise content:
-- 3-4 subtopics max per lesson
-- 3-4 presentation steps only
-- Brief, direct explanations — never lengthy
-- Aim for 3-5 sentences per subtopic, 1-2 pages total
-- Grade 2-3: Most condensed, simple words
-- Grade 4-5: Slightly more detail permitted, but still brief and direct
+Lesson notes must be VERY short. Keep it to one page max:
+- 8-12 bullet points total for the lesson
+- 3-4 subtopics max
+- Brief intro (1-2 sentences)
+- 2-3 key points per subtopic
+- One assignment question
 
 ## Example
 
